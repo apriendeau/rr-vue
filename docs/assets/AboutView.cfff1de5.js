@@ -1,0 +1,1 @@
+import{H as s,M as t}from"./index.00bb49f0.js";import{o,a as r,d as e,F as _,b as a}from"./vendor.ff125162.js";const n=a("div",{class:"about"},[a("h1",null,"This is an my page")],-1),d={setup(c){return(l,u)=>(o(),r(_,null,[e(s),e(t),n],64))}};export{d as default};
